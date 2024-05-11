@@ -1,5 +1,6 @@
 # streaming-02-multiple-processes
-
+HANNA ANENIA
+05/10/2024
 > Multiple processes accessing a shared resource concurrently
 
 ## Overview
@@ -18,11 +19,11 @@ hitting a shared database at the same time.
 
 ## Task 1. Fork 
 
-Fork this repository ("repo") into **your** GitHub account. 
+Fork this repository ("repo") into **https://github.com/hanenia/streaming-02-multiple-processes** GitHub account. 
 
 ## Task 2. Clone
 
-Clone **your** new GitHub repo down to the Documents folder on your local machine. 
+Clone **https://github.com/hanenia/streaming-02-multiple-processes** new GitHub repo down to the Documents folder on your local machine. 
 
 ## Task 3. Explore
 
